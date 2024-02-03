@@ -129,9 +129,9 @@ const Section3 = () => {
               interface that elegantly displays the comprehensive menu,
               facilitating effortless online ordering. Immerse yourself in the
               serene ambiance through a captivating gallery, offering a visual
-              journey into the restaurant's inviting atmosphere, enticing users
-              to explore, engage, and savor the unique dining experience it has
-              to offer.
+              journey into the restaurant&apos;s inviting atmosphere, enticing
+              users to explore, engage, and savor the unique dining experience
+              it has to offer.
             </p>
             <div className=" flex space-x-2">
               <div className=" w-max text-[10px] md:text-xs py-1 px-4 rounded-full border border-white text-center">
@@ -234,10 +234,10 @@ const Section3 = () => {
               journey, presenting a user-friendly interface that seamlessly
               exhibits the tantalizing menu list, enticing users with a diverse
               array of grilled specialties. Navigate effortlessly through the
-              app's integrated map feature, guiding diners to the heart of this
-              culinary haven. Stay in the loop with the latest offerings using
-              the 'Newest Promo' section, ensuring patrons never miss out on
-              exclusive deals and delightful surprises.
+              app&apos;s integrated map feature, guiding diners to the heart of
+              this culinary haven. Stay in the loop with the latest offerings
+              using the &apos;Newest Promo&apos; section, ensuring patrons never
+              miss out on exclusive deals and delightful surprises.
             </p>
             <div className=" flex space-x-2">
               <div className=" w-max text-[10px] md:text-xs py-1 px-4 rounded-full border border-white text-center">

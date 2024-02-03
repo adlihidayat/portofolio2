@@ -42,8 +42,10 @@ const Stagger = () => {
   text.map((e: string) => console.log(e));
   return (
     <>
-      {text?.map((word: String) => (
-        <motion.span variants={spanVariants}>{word}</motion.span>
+      {text?.map((word: String, index: any) => (
+        <motion.span variants={spanVariants} key={index}>
+          {word}
+        </motion.span>
       ))}
     </>
   );
